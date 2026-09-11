@@ -2,9 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Raghav+Purohit+%F0%9F%91%8B;Aspiring+Data+Scientist;Python+%7C+Statistics+%7C+Machine+Learning;Learning+%E2%86%92+Building+%E2%86%92+Improving" alt="Typing SVG" />
 
-</div>
-
 ### Aspiring Data Scientist | Python • Statistics • Machine Learning
+
+</div>
 
 I'm working towards becoming a Data Scientist and building my foundation one concept and one project at a time.
 
