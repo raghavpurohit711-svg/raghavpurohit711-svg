@@ -27,20 +27,30 @@ I'm trying to understand the fundamentals properly rather than just learning how
 
 ## 🛠️ My Toolkit
 
-### Data Science
-`Python` · `NumPy` · `Pandas` · `Scikit-learn`
+### 🐍 Languages
 
-### Programming
-`Python` · `C` · `C++` · `Java`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" height="45"/>
+</p>
 
-### Tools
-`Git` · `GitHub` · `VS Code` · `Conda`
+### 📊 Data Science
 
-### Concepts
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45"/>
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" height="45"/>
+</p>
+
+### 🧠 Concepts
+
 `Statistics` · `Probability` · `EDA` · `Data Cleaning` · `Regression` · `Feature Engineering` · `Machine Learning` · `DSA`
-
----
-
 # 🚀 Projects
 
 ## 🚗 Used Car Price Intelligence
