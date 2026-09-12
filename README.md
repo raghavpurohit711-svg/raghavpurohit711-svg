@@ -25,28 +25,49 @@ I'm trying to understand the fundamentals properly rather than just learning how
 
 ---
 
+---
+
 ## 🛠️ My Toolkit
 
 ### 🐍 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" height="45"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="45"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" height="45"/>
 </p>
 
 ### 📊 Data Science
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45"/>
 </p>
 
 ### 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" height="45"/>
+  <img src="https://skillicons.dev/icons?i=git" height="45"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=anaconda" height="45"/>
 </p>
+
+### 🧠 Concepts
+
+`Statistics` · `Probability` · `EDA` · `Data Cleaning` · `Regression` · `Feature Engineering` · `Machine Learning` · `DSA`
 
 ### 🧠 Concepts
 
