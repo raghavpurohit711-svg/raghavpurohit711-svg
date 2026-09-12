@@ -69,9 +69,7 @@ I'm trying to understand the fundamentals properly rather than just learning how
 
 `Statistics` · `Probability` · `EDA` · `Data Cleaning` · `Regression` · `Feature Engineering` · `Machine Learning` · `DSA`
 
-### 🧠 Concepts
 
-`Statistics` · `Probability` · `EDA` · `Data Cleaning` · `Regression` · `Feature Engineering` · `Machine Learning` · `DSA`
 # 🚀 Projects
 
 ## 🚗 Used Car Price Intelligence
