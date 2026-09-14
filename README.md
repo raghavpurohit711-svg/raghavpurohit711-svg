@@ -97,7 +97,6 @@ Replace it with:
 ```markdown
 #### 🧠 The workflow
 
-```text
 Data → Clean → Explore → Engineer Features
                     ↓
               Train Models → Evaluate
