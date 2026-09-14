@@ -64,30 +64,48 @@ I'm trying to understand the fundamentals properly rather than just learning how
   <img src="https://skillicons.dev/icons?i=anaconda" height="45"/>
 </p>
 
+---
+
 ### 🧠 Concepts
 
 `Statistics` · `Probability` · `EDA` · `Data Cleaning` · `Regression` · `Feature Engineering` · `Machine Learning` · `DSA`
 
+---
 
 # 🚀 Projects
 
-## 🚗 Used Car Price Intelligence
+### 🚗 Used Car Price Intelligence
 
-This is my first major Data Science project, where I'm working with used-car data to understand what influences vehicle prices and how machine learning can be used to estimate them.
+**A Data Science project exploring used-car pricing, prediction, and market opportunities.**
 
-The project takes me through the full process of working with a real dataset:
+I built this project to understand how different vehicle attributes influence prices and how machine learning can be used to estimate what a car is worth.
+
+#### 🔍 What I worked on
+
+| Area | Focus |
+|------|-------|
+| 🧹 Data Cleaning | Preparing real-world vehicle data |
+| 📊 EDA | Finding patterns and relationships in the data |
+| 🛠️ Feature Engineering | Creating useful features for modeling |
+| 🤖 Machine Learning | Building and evaluating regression models |
+| 💰 Price Analysis | Comparing predicted and market prices |
+| 🔎 Deal Finder | Exploring potentially undervalued vehicles |
+
+#### 🧠 The workflow
 
 ```text
-Raw Data
-   ↓
-Data Cleaning
-   ↓
-Exploratory Data Analysis
-   ↓
-Feature Engineering
-   ↓
-Machine Learning
-   ↓
-Price Prediction
-   ↓
-Market Insights
+Data
+  ↓
+Clean
+  ↓
+Explore
+  ↓
+Engineer Features
+  ↓
+Train Models
+  ↓
+Evaluate
+  ↓
+Predict
+  ↓
+Find Insights
