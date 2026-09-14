@@ -91,27 +91,21 @@ I built this project to understand how different vehicle attributes influence pr
 | 💰 Price Analysis | Comparing predicted and market prices |
 | 🔎 Deal Finder | Exploring potentially undervalued vehicles |
 
+
+Replace it with:
+
+```markdown
 #### 🧠 The workflow
 
 ```text
-Data
-  ↓
-Clean
-  ↓
-Explore
-  ↓
-Engineer Features
-  ↓
-Train Models
-  ↓
-Evaluate
-  ↓
-Predict
-  ↓
-Find Insights
-
+Data → Clean → Explore → Engineer Features
+                    ↓
+              Train Models → Evaluate
+                    ↓
+                Predict
+                    ↓
+              Find Insights
 ```
-
 ### 🧩 LeetCode Solutions
 
 I'm also using LeetCode to improve my problem-solving skills and get more comfortable with data structures and algorithms.
