@@ -91,11 +91,8 @@ I built this project to understand how different vehicle attributes influence pr
 | 💰 Price Analysis | Comparing predicted and market prices |
 | 🔎 Deal Finder | Exploring potentially undervalued vehicles |
 
-
-Replace it with:
-
-```markdown
 ### 🧠 The workflow
+```markdown
 
 Data → Clean → Explore → Engineer Features
                     ↓
