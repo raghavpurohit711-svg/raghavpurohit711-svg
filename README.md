@@ -25,7 +25,6 @@ I'm trying to understand the fundamentals properly rather than just learning how
 
 ---
 
----
 
 ## 🛠️ My Toolkit
 
