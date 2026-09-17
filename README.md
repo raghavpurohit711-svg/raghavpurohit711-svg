@@ -112,4 +112,18 @@ My solutions cover topics such as:
 
 I'm not just aiming to solve problems quickly — I'm trying to understand the **patterns, logic, and trade-offs** behind each solution.
 
-🔗 **[View my LeetCode Repository →](https://github.com/raghavpurohit711-svg/Leetcode)**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+<p>
+  <a href="https://github.com/raghavpurohit711-svg/Used-Car-Price-Intelligence">
+    <img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
