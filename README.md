@@ -91,35 +91,13 @@ I built this project to understand how different vehicle attributes influence pr
 | 💰 Price Analysis | Comparing predicted and market prices |
 | 🔎 Deal Finder | Exploring potentially undervalued vehicles |
 
-### 🧠 The workflow
-```markdown
+#### 🧠 The workflow
 
+```text
 Data → Clean → Explore → Engineer Features
                     ↓
               Train Models → Evaluate
                     ↓
-                Predict
+                 Predict
                     ↓
               Find Insights
-```
-### 🧩 LeetCode Solutions
-
-I'm also using LeetCode to improve my problem-solving skills and get more comfortable with data structures and algorithms.
-
-My solutions cover topics such as:
-
-`Arrays` · `Strings` · `Linked Lists` · `Trees` · `Hashing` · `Recursion` · `Backtracking` · `Sorting` · `Binary Search` · `Greedy` · `Math`
-
-I'm not just aiming to solve problems quickly — I'm trying to understand the **patterns, logic, and trade-offs** behind each solution.
-
-#### 🧰 Built with
-
-`Python` · `Pandas` · `NumPy` · `Scikit-learn`
-
-<p>
-  <a href="https://github.com/raghavpurohit711-svg/Used-Car-Price-Intelligence">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p> 
-
-
