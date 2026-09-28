@@ -1,202 +1,146 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Raghav+Purohit+%F0%9F%91%8B;Aspiring+Data+Scientist;Python+%7C+Statistics+%7C+Machine+Learning;Learning+%E2%86%92+Building+%E2%86%92+Improving" alt="Typing SVG" />
+# Raghav Purohit
 
 ### Aspiring Data Scientist | Python • Statistics • Machine Learning
 
-</div>
+I'm a student working towards becoming a **Data Scientist**, currently building my foundations in Python, statistics, data analysis, machine learning, and problem solving.
 
-I'm working towards becoming a Data Scientist and building my foundation one concept and one project at a time.
-
-I enjoy taking a problem, breaking it down, working with the data behind it, and figuring out what the data is actually telling me. Right now, I'm especially interested in **statistics, machine learning, and using data to solve practical problems**.
+I learn best by building things. Most of my repositories are a record of that process — from programming and DSA practice to applying machine learning concepts to real-world problems.
 
 ---
 
-## What I'm learning 📚
+## About Me
 
-Most of my time is going into:
+- 🎯 Working towards a career in **Data Science**
+- 🐍 Building strong foundations in **Python**
+- 📊 Learning **Statistics, Probability, and Data Analysis**
+- 🤖 Exploring **Machine Learning and predictive modeling**
+- 🧩 Practicing **DSA and problem solving**
+- 🚗 Currently developing my **Used Car Price Intelligence** project
+- 📚 Continuously turning what I learn into projects and experiments
 
-- 🐍 **Python** — programming, problem solving, and working with data
-- 📊 **Statistics & Probability** — understanding the maths behind data and models
-- 🤖 **Machine Learning** — learning how models work and how to build and evaluate them
-- 🧩 **DSA** — improving my problem-solving and algorithmic thinking
-
-I'm trying to understand the fundamentals properly rather than just learning how to make code work.
-
----
-
-
-## 🛠️ My Toolkit
-
-### 🐍 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=c" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" height="45"/>
-</p>
-
-### 📊 Data Science
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45"/>
-</p>
-
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=anaconda" height="45"/>
-</p>
+I'm still early in the journey, but I'm focused on building strong fundamentals and gradually working towards more complete, real-world Data Science projects.
 
 ---
 
-### 🧠 Concepts
+## Skills & Tools
 
-`Statistics` · `Probability` · `EDA` · `Data Cleaning` · `Regression` · `Feature Engineering` · `Machine Learning` · `DSA`
+**Programming:**  
+Python · C · C++ · Java
+
+**Data Science:**  
+NumPy · Pandas · Scikit-learn
+
+**Currently Learning:**  
+Statistics · Probability · EDA · Data Cleaning · Regression · Feature Engineering · Machine Learning
+
+**Tools:**  
+Git · GitHub · VS Code · Conda · Jupyter
 
 ---
 
-# 🚀 Projects
+## Projects
 
 ### 🚗 Used Car Price Intelligence
 
-**A Data Science project exploring used-car pricing, prediction, and market opportunities.**
+My main Data Science project so far.
 
-I built this project to understand how different vehicle attributes influence prices and how machine learning can be used to estimate what a car is worth.
+The goal is to understand used-car pricing through data and build a system that can estimate a vehicle's fair market value.
 
-#### 🔍 What I worked on
+The project is evolving from a basic price-prediction problem into a broader **market intelligence and deal-finding system**.
 
-| Area | Focus |
-|------|-------|
-| 🧹 Data Cleaning | Preparing and working with real-world vehicle data |
-| 📊 EDA | Finding patterns and relationships in the data |
-| 🛠️ Feature Engineering | Creating useful features for modeling |
-| 🤖 Machine Learning | Building and evaluating regression models |
-| 💰 Price Analysis | Comparing predicted prices with market prices |
-| 🔎 Deal Finder | Exploring potentially undervalued vehicles |
+**What I'm working on:**
 
-#### 🧠 The workflow
+- Collecting and working with real-world vehicle data
+- Cleaning and preparing messy datasets
+- Exploring relationships between vehicle attributes and prices
+- Feature engineering
+- Building and comparing machine learning models
+- Evaluating model performance
+- Studying depreciation patterns
+- Comparing predicted value with listing prices
+- Exploring an **Arbitrage Engine / Deal Finder**
 
-```text
-Data → Clean → Explore → Engineer Features
-                    ↓
-              Train Models → Evaluate
-                    ↓
-                 Predict
-                    ↓
-              Find Insights
-```
+**Workflow:**
 
-#### 🧰 Built with
+Data Collection → Data Cleaning → EDA → Feature Engineering → Model Building → Model Evaluation → Price Prediction → Market Intelligence
 
-`Python` · `Pandas` · `NumPy` · `Scikit-learn`
+**Tech:** Python · Pandas · NumPy · Scikit-learn
 
-<p>
-  <a href="https://github.com/raghavpurohit711-svg/Used-Car-Price-Intelligence">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+[View Project →](https://github.com/raghavpurohit711-svg/Used-Car-Price-Intelligence)
 
 ---
 
-### 🧩 LeetCode Solutions
+### 🧩 LeetCode
 
-I'm also using LeetCode to improve my problem-solving skills and get more comfortable with data structures and algorithms.
+A collection of my LeetCode solutions and problem-solving practice.
 
-My solutions cover topics such as:
+I'm using DSA alongside my Data Science learning to improve my problem-solving skills and understand algorithms rather than simply memorizing solutions.
 
-`Arrays` · `Strings` · `Linked Lists` · `Trees` · `Hashing` · `Recursion` · `Backtracking` · `Sorting` · `Binary Search` · `Greedy` · `Math`
+**Areas I'm practicing:**
 
-I'm not just aiming to solve problems quickly — I'm trying to understand the **patterns, logic, and trade-offs** behind each solution.
+Arrays · Strings · Linked Lists · Hashing · Recursion · Trees · Backtracking · Sorting · Binary Search · Greedy · Math
 
-#### 🧰 Built with
-
-`Python` · `C++` · `Java`
-
-<p>
-  <a href="https://github.com/raghavpurohit711-svg/Leetcode">
-    <img src="https://img.shields.io/badge/View%20LeetCode%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+[View LeetCode Repository →](https://github.com/raghavpurohit711-svg/Leetcode)
 
 ---
 
-# 📈 Where I'm Heading
+### 🧠 DSA
 
-I'm working towards becoming a **Data Scientist**, with a focus on building strong fundamentals and turning what I learn into practical projects.
+A separate repository where I'm building my understanding of **Data Structures and Algorithms** through implementations, practice, and experimentation.
 
-```text
-Python
-   ↓
-DSA & Problem Solving
-   ↓
-Statistics & Probability
-   ↓
-Data Analysis
-   ↓
-Machine Learning
-   ↓
+This is part of my broader effort to become a stronger programmer and improve my problem-solving fundamentals.
+
+**Focus areas:**
+
+Arrays · Linked Lists · Stacks · Queues · Trees · Searching · Sorting · Recursion · Algorithms
+
+[View DSA Repository →](https://github.com/raghavpurohit711-svg/DSA-)
+
+---
+
+## My Learning Path
+
+Python  
+↓  
+Data Structures & Algorithms  
+↓  
+Statistics & Probability  
+↓  
+Data Analysis  
+↓  
+Machine Learning  
+↓  
 Data Science
-```
 
-I'm still early in the journey, but I'm enjoying the process of learning, building, making mistakes, and improving with every project.
+The goal isn't to rush through the list.
 
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghavpurohit711-svg&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavpurohit711-svg&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
-</p>
+It's to build enough understanding at each stage that I can actually use it in the next one.
 
 ---
 
-# 💭 Something I Believe
+## What I'm Working Towards
 
-> Learn the fundamentals.  
-> Build things.  
-> Make mistakes.  
-> Understand why they happened.  
-> Build again.
+My long-term goal is to become a **Data Scientist capable of taking a problem from raw data to a useful, explainable solution**.
+
+I'm continuously working on improving my:
+
+- Programming fundamentals
+- Statistical thinking
+- Data analysis skills
+- Machine learning knowledge
+- Problem-solving ability
+- Real-world project experience
+
+I'm building the portfolio along the way.
 
 ---
 
-# 🤝 Let's Connect
+## Connect With Me
 
-I'm always happy to connect with people interested in **Data Science, Machine Learning, AI, and software development**.
+If you're interested in **Data Science, Machine Learning, AI, or software development**, feel free to connect.
 
-<p align="center">
-  <a href="https://github.com/raghavpurohit711-svg">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/raghav-purohit-0209063ba/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="mailto:raghavpurohit711@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/Raghav711/">
-    <img src="https://img.shields.io/badge/LeetCode-Raghav711-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/raghav-purohit-0209063ba/) • [LeetCode](https://leetcode.com/u/Raghav711/) • [Email](mailto:raghavpurohit711@gmail.com)
+
+---
+
+### Currently building. Constantly learning.
